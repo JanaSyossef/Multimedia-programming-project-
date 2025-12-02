@@ -1,6 +1,6 @@
-opencv-python
-mediapipe
-Custom tkinter 
+OpenCV-Python
+Mediapipe
+Custom Tkinter 
 NumPy
 gTTS
 playsound
