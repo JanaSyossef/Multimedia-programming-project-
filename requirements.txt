@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+Custom tikenter 
+NumPy
+gTTS
+playsound
