@@ -50,10 +50,12 @@ class CameraProcessor:
         # Read a frame from the video stream
         success, image = self.cap.read()
         if not success:
-            # Return None if reading the frame failed (e.g., stream ended)
+            # Return None if reading the frame failed (stream ended)
             return None, None
 
-        # --- MediaPipe Processing Steps ---
+        image = cv2.flip(image, 1)
+
+        #  MediaPipe Processing Steps
         # 1. Prepare Image: Set image to read-only for performance
         image.flags.writeable = False
         # 2. Convert to RGB: MediaPipe requires RGB input
