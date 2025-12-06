@@ -1,0 +1,10 @@
+{
+    "name": "Youssef Beshnack",
+    "age": 20,
+    "weight": 73.2,
+    "gender": "Male",
+    "dailyWaterNeeds": 3000,
+    "dailyCalorieNeeds": 2000,
+    "waterDrunk": 0,
+    "caloriesConsumed": 0
+}

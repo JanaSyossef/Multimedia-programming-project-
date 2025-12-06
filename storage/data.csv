@@ -1,0 +1,5 @@
+id,workoutType,reps,duration,sessionEnded,postureScores,timestamp
+0,Squat,0,82.345159,True,,2025-12-06T20:40:32.772417
+1,Leg Press,0,93.828761,True,,2025-12-06T20:40:32.772426
+2,Bench Press,0,97.636283,True,,2025-12-06T20:40:32.772428
+3,Cardio,0,32.421,True,,2025-12-06T22:04:42.357987

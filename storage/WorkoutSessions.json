@@ -1,0 +1,38 @@
+[
+    {
+        "id": "0",
+        "workoutType": "Squat",
+        "reps": 0,
+        "duration": 82.345159,
+        "sessionEnded": true,
+        "postureScores": [],
+        "timestamp": "2025-12-06T20:40:32.772417"
+    },
+    {
+        "id": "1",
+        "workoutType": "Leg Press",
+        "reps": 0,
+        "duration": 93.828761,
+        "sessionEnded": true,
+        "postureScores": [],
+        "timestamp": "2025-12-06T20:40:32.772426"
+    },
+    {
+        "id": "2",
+        "workoutType": "Bench Press",
+        "reps": 0,
+        "duration": 97.636283,
+        "sessionEnded": true,
+        "postureScores": [],
+        "timestamp": "2025-12-06T20:40:32.772428"
+    },
+    {
+        "id": "3",
+        "workoutType": "Cardio",
+        "reps": 0,
+        "duration": 32.421,
+        "sessionEnded": true,
+        "postureScores": [],
+        "timestamp": "2025-12-06T22:04:42.357987"
+    }
+]
