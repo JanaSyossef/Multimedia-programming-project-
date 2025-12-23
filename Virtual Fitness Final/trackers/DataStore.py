@@ -1,4 +1,3 @@
-
 # Imports ====================================================================================
 import csv
 import json
@@ -69,5 +68,4 @@ class DataStore:
           df = df.explode(col)
 
       df.to_csv(file_name, index=False)
-
       print(f"\033[32mCSV saved as '{file_name}'\033[0m")

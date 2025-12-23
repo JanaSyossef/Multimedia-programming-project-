@@ -1,4 +1,3 @@
-
 import json
 import math
 import os
@@ -30,12 +29,12 @@ TEXT_LIGHT = "#e2e8f0"
 BORDER = "#2dd4bf"
 
 # LIGHT COLORS
-LIGHT_BG = "#555992"
-LIGHT_CARD = "#e2e8f0" # Light mode card background (brighter)
-LIGHT_TEXT = "#1e293b"
-LIGHT_BORDER = "#cbd5e1"
-LIGHT_PRIMARY = "#0ea5e9"
-LIGHT_SECONDARY = "#6366f1"
+LIGHT_BG = "#103152"
+LIGHT_CARD = "#35598B" # Light mode card background (brighter)
+LIGHT_TEXT = "#e2eaee"
+LIGHT_BORDER = "#81A8D8"
+LIGHT_PRIMARY = "#d5e3e9"
+LIGHT_SECONDARY = "#5486DE"
 
 # --- THEME TUPLES (Automatic Switching) ---
 # Format: (Light_Value, Dark_Value)

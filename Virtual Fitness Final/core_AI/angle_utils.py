@@ -1,4 +1,3 @@
-
 import numpy as np
 import math
 
@@ -56,9 +55,9 @@ class AngleCalculator:
         """
         #   Landmark Indices (Standard MediaPipe Pose Model)
         LEFT_SHOULDER = 11
+        LEFT_HIP = 23
         LEFT_ELBOW = 13
         LEFT_WRIST = 15
-        LEFT_HIP = 23
         LEFT_KNEE = 25
         LEFT_ANKLE = 27
 
@@ -97,7 +96,3 @@ class AngleCalculator:
             'HIP_ANGLE': hip_angle,
             'SHOULDER_ANGLE': shoulder_angle
         }
-
-
-
-

@@ -1,6 +1,10 @@
-OpenCV-Python
-Mediapipe
-Custom Tkinter 
-NumPy
-gTTS
-playsound
+
+mediapipe
+customtkinter
+pandas
+Pillow
+comtypes==1.4.13
+numpy==2.2.6
+opencv-python==4.12.0.88
+pillow==12.0.0
+pyttsx3==2.99
