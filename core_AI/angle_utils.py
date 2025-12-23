@@ -1,3 +1,4 @@
+
 import numpy as np
 import math
 
@@ -96,3 +97,7 @@ class AngleCalculator:
             'HIP_ANGLE': hip_angle,
             'SHOULDER_ANGLE': shoulder_angle
         }
+
+
+
+

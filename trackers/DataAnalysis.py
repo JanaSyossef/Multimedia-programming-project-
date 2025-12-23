@@ -1,3 +1,4 @@
+
 import pandas as pd
 from datetime import datetime, timedelta
 
@@ -62,5 +63,6 @@ def testing():
     
     print("=" * 50)
     print(df_squat_today[['id','workoutType','time_friendly','reps','duration']])
+
 
 testing()

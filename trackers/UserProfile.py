@@ -1,3 +1,4 @@
+
 import DataStore
 from datetime import datetime
 from dataclasses import dataclass
@@ -32,4 +33,3 @@ def test():
   user = UserProfile("Youssef Beshnack", 20, 73.2, "Male", 3000, 2000)
   user.saveUser()
 
-test()

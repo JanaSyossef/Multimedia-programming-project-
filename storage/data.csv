@@ -1,3 +1,4 @@
+
 id,workoutType,reps,duration,sessionEnded,postureScores,timestamp
 0,pushup,19,114.0,True,,2025-12-12T00:33:05.171420
 1,pushup,19,135.0,True,,2025-12-12T00:33:26.386446
